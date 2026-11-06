@@ -2,6 +2,8 @@
 
 # TPTTPN: Tri-Path Spatio-Temporal Network with Tensor-Train Probabilistic Head for Traffic Flow Prediction 🚦📈
 
+Lei Yang, Zecan Yang, Laurence T. Yang, Honglu Zhao, Song Zhang
+
 A PyTorch framework for probabilistic spatio-temporal series forecasting on traffic data.
 
 <br/>
